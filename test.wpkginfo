@@ -1,0 +1,4 @@
+Name=test
+InstallPath=C:\Program Files\Test
+ExecFile=C:\Program Files\Test\test.exe
+PackageSignature=NutDingNuNuNuNuNuNuNuNuNuNuNuNut
